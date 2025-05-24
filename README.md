@@ -5,7 +5,7 @@
       <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=50&center=true&vCenter=true&width=850&height=160&duration=4000&lines=Hello!+👋;I'm+Nur+Fatih+Alam!🙋‍♂️;Welcome+to+my+GitHub!🌟" /></p>
     </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwcXJqd3ZpbGMyZzQ4bXk2NGhlenBhMDAzaXZsNGI4YjMxa2Q1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" height="120" width="180">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwcXJqd3ZpbGMyZzQ4bXk2NGhlenBhMDAzaXZsNGI4YjMxa2Q1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" height="120" width="160">
     </td>
   </tr>
 </table>
