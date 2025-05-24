@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;I'm+Nur+Fatih+Alam!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;" /></h1>
 
 <p align="center">
