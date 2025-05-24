@@ -2,10 +2,10 @@
 <table align="center">
   <tr>
     <td>
-      <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=55&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello!+👋;I'm+Nur+Fatih+Alam!🙋‍♂️;" /></h1>
+      <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=48&center=true&vCenter=true&width=700&height=60&duration=4000&lines=Hello!+👋;I'm+Nur+Fatih+Alam!🙋‍♂️;" /></h1>
     </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwcXJqd3ZpbGMyZzQ4bXk2NGhlenBhMDAzaXZsNGI4YjMxa2Q1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" height="80" width="auto">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwcXJqd3ZpbGMyZzQ4bXk2NGhlenBhMDAzaXZsNGI4YjMxa2Q1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" height="150" width="auto">
     </td>
   </tr>
 </table>
