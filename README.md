@@ -1,14 +1,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;I'm+Nur+Fatih+Alam!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;" /></h1>
+<table align="center">
+  <tr>
+    <td>
+      <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=55&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hello!+👋;I'm+Nur+Fatih+Alam!🙋‍♂️;" /></h1>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwcXJqd3ZpbGMyZzQ4bXk2NGhlenBhMDAzaXZsNGI4YjMxa2Q1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" height="200">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tmeXNhM3o0eTNxbzduNm84MG9ueXZsejRjbW9tajhhZmRtaTZmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150" alt="Animated Data Analysis">
 </p>
 
 <p align="center">
-  <b>Hello! I'm a Data Analyst who loves turning raw data into impactful insights.</b><br>
-  I work with data to uncover trends, support decision-making, and tell compelling stories through visualization.  
+  Hello! I'm a <strong>Data Analyst</strong>: turning raw data into powerful, actionable insights. 💡<br>
+  My passion is uncovering trends 📈, guiding decisions 🧭, and crafting compelling narratives through beautiful visualizations. 🎨
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -39,13 +47,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## 🚀 What I Love Working On
+## 🌟 My Data Analytics Flow
 
-- 📈 Creating impactful dashboards for business decision-making  
-- 🧹 Cleaning and transforming messy data  
-- 🔍 Analyzing recruitment & inventory datasets  
-- 🎨 Visualizing complex information in simple ways  
-- 🧠 Learning new tools to improve workflow & insight generation  
+As a Data Analyst, I transform raw data into actionable insights, end-to-end:
+
+-   🎯 **Defining Core Problems**: Translating business challenges into clear data objectives.
+-   📥 **Acquiring Quality Data**: Sourcing and validating diverse datasets for analysis.
+-   ⚙️ **Structuring Raw Data**: Cleaning and transforming data for analytical precision.
+-   🧠 **Extracting Key Insights**: Analyzing data to reveal patterns and opportunities.
+-   🗣️ **Visualizing Impact**: Crafting clear dashboards and presentations for effective communication.
+-   📈 **Driving Measurable Action**: Turning insights into strategies for tangible growth.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
