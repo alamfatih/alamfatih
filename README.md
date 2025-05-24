@@ -16,7 +16,9 @@
 
 <p align="center">
   Hello! I'm a <strong>Data Analyst</strong>: turning raw data into powerful, actionable insights. 💡<br>
-  My passion is uncovering trends 📈, guiding decisions 🧭, and crafting compelling narratives through beautiful visualizations. 🎨
+  My passion is uncovering trends 📈, guiding decisions 🧭, and crafting compelling narratives through beautiful visualizations. 🎨<br>
+  
+  ![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
