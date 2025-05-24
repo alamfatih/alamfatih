@@ -61,10 +61,11 @@ As a Data Analyst, I transform raw data into actionable insights, end-to-end:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 📫 Connect with Me
-Feel free to reach out or connect:
+Let's connect and explore data insights together! Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20Nur%20Fatih%20Alam-0A66C2?logo=logmein&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nurfatihalam/)
-[![Email](https://img.shields.io/badge/-Email:%20alamx80@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alamx80@gmail.com)
+[![Email](https://img.shields.io/badge/-Email:%20alamx80@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alamx80@gmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20Nur%20Fatih%20Alam-0A66C2?logo=logmein&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nurfatihalam/)<br>
+[![Tableau](https://img.shields.io/badge/-Tableau:%20Nur%20Fatih%20Alam-E97627?logo=topdotgg&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/nurfatihalam/vizzes)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
