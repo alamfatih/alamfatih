@@ -17,22 +17,22 @@
 
 ### 🗃️ SQL Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Microsoft SQL](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![Microsoft SQL](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?logo=googlebigquery&logoColor=white&style=for-the-badge)
 
 ### 📊 Spreadsheets  
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=googlesheets&logoColor=white&style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white&style=for-the-badge)
 
 ### 📈 Data Visualization  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=topdotgg&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?logo=powers&logoColor=black&style=for-the-badge)
 ![Looker Studio](https://img.shields.io/badge/-Google%20Looker%20Studio-4285F4?logo=looker&logoColor=white&style=for-the-badge)
 
 ### 🐍 Python Libraries  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C6EB1?logo=python&logoColor=white&style=for-the-badge)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
@@ -52,7 +52,7 @@
 ## 📫 Connect with Me
 Feel free to reach out or connect:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20Nur%20Fatih%20Alam-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nurfatihalam/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20Nur%20Fatih%20Alam-0A66C2?logo=logmein&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nurfatihalam/)
 [![Email](https://img.shields.io/badge/-Email:%20alamx80@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alamx80@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
